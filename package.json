@@ -1,5 +1,5 @@
 {
-  "name": "wave-gradient",
+  "name": "wave-gradient-mckenzie",
   "version": "1.0.0",
   "description": "Animated wave gradient background for canvas inspired by Stripe's visuals.",
   "main": "wave-gradient.js",
@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/mckenzie-81/wave-gradient/issues"
   },
-  "homepage": "https://github.com/mckenzie-81/wave-gradient#readme"
+  "homepage": "https://github.com/mckenzie-81/wave-gradient#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0"
+    
+  }
 }
