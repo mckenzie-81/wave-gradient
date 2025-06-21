@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Animated wave gradient background for canvas inspired by Stripe's visuals.",
   "main": "wave-gradient.js",
+  "module": "dist/wave-gradient.js",
+  "types": "dist/wave-gradient.d.ts",
   "keywords": [
     "canvas",
     "gradient",
